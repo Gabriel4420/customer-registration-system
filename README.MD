@@ -4,7 +4,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/backend-contacts?logo=html">
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/backend-contacts?color=green">
-
   <br>
   
   <a href="https://www.codacy.com/manual/Gabriel4420/backend-contacts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/backend-contacts&amp;utm_campaign=Badge_Grade">
